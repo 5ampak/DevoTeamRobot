@@ -13,8 +13,8 @@ public class Robot {
     private int lenght;
     private int width;
     private char facing;
-    private String topLeft; // Coordonnée x
-    private String bottomRight; // Coordonnée y
+    private String topLeft; // Coordonnée x,
+    private String bottomRight; // Coordonnée y,
 
     public Robot() {
         this.lenght = lenght;
